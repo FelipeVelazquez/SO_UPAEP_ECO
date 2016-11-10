@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/ecosistemas/poky/build/tmp
+SSTATE_DIR /home/ecosistemas/poky/build/sstate-cache
+NATIVELSBSTRING Ubuntu-16.10
